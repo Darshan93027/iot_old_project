@@ -1,4 +1,4 @@
-B.Tech Classroom: 40
+B.Tech Classroom: 300
 Strength: 30
-Design Classroom: 50
+Design Classroom: 400
 Strength: 25
